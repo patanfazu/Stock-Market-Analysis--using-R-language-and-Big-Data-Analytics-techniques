@@ -1,0 +1,2 @@
+# Stock-Market-Analysis--using-R-language-and-Big-Data-Analytics-techniques
+The following project aims to provide an in-depth analysis of stock market components limited to the telecommunication sector. We take into account around 5 telecom companies like Bharti Airtel Ltd, Vodafone Idea Ltd, Reliance Communications Ltd, Tata Communications Ltd, MTNL Ltd, and do a holistic evaluation of how they perform in the day-to-day share activities. Predicting future situations based on past trends is also something this analysis aims to achieve.
